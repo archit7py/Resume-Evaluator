@@ -185,7 +185,7 @@ This project is licensed under the MIT License.
 **Archit Prashad**
 
 - GitHub: https://github.com/archit7py
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/archit-prasad-0379b8352/
 
 ---
 
